@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
+  "name": "my-vite-app",
+=======
   "name": "podcast-app",
+>>>>>>> bf3243e (create a good react project for a podcast web page)
   "private": true,
   "version": "0.0.0",
   "type": "module",
